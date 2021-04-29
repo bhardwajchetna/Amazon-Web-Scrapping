@@ -1,6 +1,6 @@
 # Amazon-Web-Scrapping
 
-## The goal of this scrapper is to use web crawling techniques to gather and represent product listing information from the Amazon websit and analyzing the manufacturer's online marketplace position in terms of the best deals available and conducting a text analysis of the features
+## The goal of this scrapper is to use web crawling techniques to gather and represent product listing information from the Amazon website and analyzing the manufacturer's online marketplace position in terms of the best deals available and conducting a text analysis of the features
 
 It consists of three phases: 
 
